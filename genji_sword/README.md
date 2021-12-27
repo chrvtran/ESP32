@@ -1,3 +1,4 @@
 # Genji Sword Project
-Collaboration between Christopher Tran and Eric Wu
-For more info: https://sites.google.com/umass.edu/genjis-sword/home 
+Collaboration between Christopher Tran and Eric Wu.
+
+Project Website: https://sites.google.com/umass.edu/genjis-sword/home 
