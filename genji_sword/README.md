@@ -1,7 +1,7 @@
 # Genji Sword Project
 Collaboration between Christopher Tran and Eric Wu.
 
-Project Website: https://sites.google.com/umass.edu/genjis-sword/home 
+Project Website: https://sites.google.com/view/genjissword
 
 "The cyborg Genji Shimada has made peace with the augmented body he once rejected, and in doing so, he has discovered a higher humanity. While wary of his past, he has acknowledged, and made peace with it. He (almost) constantly wears a mask, as, in his words, "I do not want people to fear me...or pity me."
 
